@@ -1,11 +1,9 @@
 
 
+<h1 align="center">
+  <img width="494" alt="sneakerseekerlogo" src="https://github.com/Odrakes1992/CRYP-3PO/blob/main/traderunner/tradingbot/images/trunner.png">
+<br></h1>
 
-# CRYP-3PO
-
-<link href="http://fonts.cdnfonts.com/css/blade-runner-movie-font" rel="stylesheet">
-
-<h1 style="color:#f7f7f7; font-family: 'Blade Runner Movie Font'; text-align: center;"> TradeRunner </h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/AfjAOG9qD4vVfd9q4Q/giphy.gif" alt="animation1"/>
