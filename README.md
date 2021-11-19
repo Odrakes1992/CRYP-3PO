@@ -18,3 +18,45 @@
 <img src="https://media.giphy.com/media/mdCSocAFkjUm0l7nQn/giphy.gif" alt="animation1"/>
 </p>
 
+
+# Quickstart
+
+Clone this repository. Then 
+
+
+```
+
+> bundle install 
+
+
+```
+
+Usage, run the following command in the terminal and navigate to the local 
+
+
+```
+python3 manage.py runserver
+
+```
+
+```
+http://localhost:8000/
+
+```
+
+
+Database 
+
+```
+mysql - version (8.0.27)
+
+```
+
+# Testing
+
+To run Django tests, navigate to root folder containing ``` manage.py ``` and run ``` python3 manage.py test```
+
+
+# Video Demo
+
+
