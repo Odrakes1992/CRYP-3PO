@@ -23,94 +23,97 @@
 
 ```
 As a User 
-So I do not have to log in to the cyrptocurrency exchange
 I want to be able to make connect to my wallet via the website
-
+So I do not have to log in to the cyrptocurrency exchange
 ```
 
 ```
 As a User 
-So that I can see my wallet 
 I want to be able to log in
-
+So that I can see my wallet 
 ```
 
 ```
 As a User 
-So that I can purchase cryptocurrencies
 I want to be able to make trades
-
+So that I can purchase cryptocurrencies
 ```
 
 ```
 As a User 
-So that I can purchase cryptocurrencies at the optimum price
 I want to be able to turn on the crypto trading bot and make automatic trades
-
+So that I can purchase cryptocurrencies at the optimum price
 ```
 
 ```
 As a User 
-So I can purchase cryptocurrencies when I choose
 I want to be able to turn off the crypto trading bot
-
+So I can purchase cryptocurrencies when I choose
 ```
 
 ```
 As a User 
-So I can purchase cryptocurrencies under different criteria
 I want to be able to change the purchase strategy
-
+So I can purchase cryptocurrencies under different criteria
 ```
 
 ```
 As a User 
-So that I can sell cryptocurrencies at the optimum price
 I want the crypto trading bot to make automatic trades
-
+So that I can sell cryptocurrencies at the optimum price
 ```
 
 
 
 # Quickstart
 
-Clone this repository. Then 
+Clone this repository. 
 
 
 ```
+> git clone https://github.com/Odrakes1992/CRYP-3PO.git
+> cd CRYP-3PO
+> cd traderunner
 
 > bundle install 
-
+> npm install 
 
 ```
 
-Usage, run the following command in the terminal and navigate to the local 
+Once in the traderunner directory, run the following in the terminal 
 
 
 ```
 python3 manage.py runserver
 
 ```
+Open the web broswer
 
 ```
 http://localhost:8000/
 
 ```
 
+****
 
-Database 
+**Database**
 
 ```
 mysql - version (8.0.27)
 
 ```
 
-# Testing
+**Requirements**
+
+- A version of Python, Pip and Django
+- A version of Node and NPM 
+
+**Testing**
 
 To run Django tests, navigate to root folder containing ``` manage.py ``` and run ``` python3 manage.py test```
 
 
-# Demo
+**Demo**
 
 [TradeRunner Website Demo][1]
 
